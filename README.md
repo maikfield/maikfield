@@ -1,6 +1,6 @@
 - 👋 Hola!!, soy @maikfield
 - 👀 Técnico Informático y en mis ratos libres emprendedor.
-- 🌱 Actualmente involucrado en el proyecto Amsysnet.
+- 🌱 Actualmente involucrado en el proyecto Amsysnet (https://amsysnet.com)
 - 📫 Puedes contactar conmigo mediante: maikfielding@pm.me
 
 <!---
